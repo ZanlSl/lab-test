@@ -1,3 +1,8 @@
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
 <h1>About</h1>
 <p>It can be itimidating for women to learn and ask questions when 
 when they are in an extreme minority. While open and welcoming, 
@@ -14,7 +19,7 @@ capabilitis we can begin to change this landscape. </p>
 <a href="url">&#9900; Ottawa</a>
 <a href="url">&#9900; Sydney</a>
 <h2>Upcoming Classes</h2>
-<table>
+<table style="width:100%">
   <tr>
     <th>Location</th>
     <th>Topic</th>
@@ -29,3 +34,10 @@ capabilitis we can begin to change this landscape. </p>
   </tr>
 </table>
 <h2>Sign Up!</h2>
+<table>
+   <tr>
+     <td> Name: </td>
+     <td>put your name here!</td>
+   <tr>
+     <td> Password: </td>
+     <td>put your password here!</td>
