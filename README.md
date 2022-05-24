@@ -1,5 +1,3 @@
-# lab-test
-for tests
 <h1>About</h1>
 <p>It can be itimidating for women to learn and ask questions when 
 when they are in an extreme minority. While open and welcoming, 
